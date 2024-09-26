@@ -1,12 +1,69 @@
-Use this file to record your reflection on this assignment.
+# CSC120: Object-Oriented Programming
+## A3 Checklist
 
-- Which classmates did you consult with while working on this assignment?
-George Rogers
-- Which session(s) of TA / office hours did you attend?
-Wednesday night TA hours
-- What are your initial impressions of Java? 
-It's a lot more confusing than Python, but I am catching on to the syntax. It is surprisingly easier to code procedurally in Java than it is to code object orientedly in Python
-- Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
-The logic you apply to it is the same, you simply have to say everything in a much more complicated way. Also, making your code legible is entirely on you, and it's very easy to slack off, because the machine can read your code, but then you look back and you're like "what the hell have I been doing for the past hour?"
-- What worked, what didn't, what advice would you give someone taking this course in the future?
-Starting it earlier definitely worked out well for me, it went much better than the first coding assignment that I started two hours before it was due. Additionally, working with someone next to you. Even if it isn't pair programming necessarily, it's nice to have someone you can consult on the little syntax questions. 
+Listed below are various aspects of the assignment.  When you turn in your work, please indicate the status of each item
+
+- **YES** : indicates that the item is fully complete
+- **NO** : indicates that the item is not attempted
+- **PART** : indicates that the item is attempted but not fully complete
+
+
+## Assignment Points:
+
+### Level 1 (4 pts)
+
+yes 1 pt: `reflection.md` lists the classmates you consulted & TA hours attended
+
+yes 1 pt: Program queries user for number of conversation rounds
+
+yes 1 pt: Program carries out requested number of conversation rounds
+
+yes 1 pt: Allocates static array of canned responses
+
+### Level 2 (3 pts)
+
+_____ 1 pt: Uses a canned response when no mirror words detected
+
+_____ 1 pt: Detects the requested set of mirror words (at minimum)
+
+_____ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
+
+### Level 3 (3 pts)
+
+_____ 1 pt: Makes all appropriate mirror replacements
+
+_____ 1 pt: Stores transcript of the conversation in an array
+
+_____ 1 pt: Prints transcript when terminating
+
+## Kudos:
+
+_____ (Kudos!) Handles mirror words with punctuation
+
+_____ (Kudos!) Generates output with correct punctuation & capitalization
+
+_____ (Kudos!) Handles you --> me/I dilemma
+
+
+
+## General Items:
+
+yes 4 pts: Programs compile without errors or warnings
+
+yes 2 pts: Executes fully & consistently without crashing (exception/freeze)
+
+yes 2 pt: Complies with style guidelines (missing items 1 pt each):
+
+      yes Classes & class members all have Javadoc header comments
+
+      yes Clear and consistent indentation of bracketed sections
+
+      yes Adheres to Java conventions on naming & capitalization
+
+      yes Methods & variables all have clear and accurate names
+
+      yes Methods avoid confusing side effects
+
+yes 1 pt: All required files included with submission (including completed checklist file)
+
+yes 1 pt: `reflection.md` contains your reflection on the assignment
